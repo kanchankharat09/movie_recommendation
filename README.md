@@ -33,6 +33,3 @@ Output
 Displays top 5 similar movies based on content similarity.
 
 
-Create requirements.txt
-
-Just say 👍
